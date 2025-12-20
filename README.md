@@ -1,7 +1,8 @@
 # 💫 Hi 👋, I'm Dilip Maurya
-**💻 Full Stack (MERN) Developer experienced in MongoDB, Express.js, React.js, and Node.js ☕ Proficient in Java, Data Structures & Algorithms, and problem-solving**
 
-**🧠 SKILLS** <br/>
+**<h3>💻 Full Stack (MERN) Developer experienced in MongoDB, Express.js, React.js, and Node.js ☕ Proficient in Java, Data Structures & Algorithms, and problem-solving</h3>**
+
+**<h3>🧠 SKILLS</h3>**
 **Programming Languages:** Java, JavaScript (ES6+), <br/>
 **Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hashing <br/>
 **Front-end Development:** HTML5, CSS3, ReactJS, TailwindCSS, Bootstrap <br/>
