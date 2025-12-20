@@ -1,8 +1,9 @@
 # 💫 Hi 👋, I'm Dilip Maurya
 **💻 Full Stack (MERN) Developer experienced in MongoDB, Express.js, React.js, and Node.js ☕ Proficient in Java, Data Structures & Algorithms, and problem-solving**
 
-Email Me 👉 ✉️ **mauryadilip.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-My Portfolio website 👉 🌐 **https://dilip-maurya-portfolio.vercel.app/** 
+Email Me 👉 ✉️ **mauryadilip.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊 <br/>
+My Portfolio website 👉 🌐 **https://dilip-maurya-portfolio.vercel.app/** <br/>
+LeetCode account 👉 **https://leetcode.com/u/dilip_143/**
 
 - 🔭 **I’m currently working on:** Java Full Stack Development Project—Secure Online Banking Application
 - 🌱 **I’m currently learning:** Spring Boot, Docker, and Java Full Stack technologies
