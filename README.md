@@ -4,7 +4,7 @@
 
 Email Me 👉 ✉️ **mauryadilip.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊 <br/>
 My Portfolio website 👉 🌐**https://dilip-maurya-portfolio.vercel.app/** <br/>
-Linkedin 👉 🔗**linkedin.com/in/dilip-maurya-9061a0306**  <br/>
+Linkedin 👉 🔗**https://www.linkedin.com/in/dilip-maurya-9061a0306**  <br/>
 LeetCode account 👉 **https://leetcode.com/u/dilip_143/**
 
 - 🔭 **I’m currently working on:** Java Full Stack Development Project—Secure Online Banking Application
