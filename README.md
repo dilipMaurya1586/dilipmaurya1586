@@ -2,14 +2,6 @@
 
 **<h3>💻 Full Stack (MERN) Developer experienced in MongoDB, Express.js, React.js, and Node.js ☕ Proficient in Java, Data Structures & Algorithms, and problem-solving</h3>**
 
-**<h3>🧠 SKILLS</h3>**
-**Programming Languages:** Java, JavaScript (ES6+), <br/>
-**Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hashing <br/>
-**Front-end Development:** HTML5, CSS3, ReactJS, TailwindCSS, Bootstrap <br/>
-**Back-end Development:** Node.js, Express.js, RESTful APIs, MVC Architecture, JWT <br/>
-**Databases:** MongoDB, MySQL- (schema design, CRUD operations) <br/>
-**Tools & Technologies:** Git, GitHub, Postman, VS Code, JSON, Axios, NPM, Chrome DevTools <br/>
-
 Email Me 👉 ✉️ **mauryadilip.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊 <br/>
 My Portfolio website 👉 🌐 **https://dilip-maurya-portfolio.vercel.app/** <br/>
 LeetCode account 👉 **https://leetcode.com/u/dilip_143/**
@@ -24,7 +16,50 @@ LeetCode account 👉 **https://leetcode.com/u/dilip_143/**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilip-maurya-9061a0306) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryadilip.work@gmail.com) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🚀 Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-ES6%2B-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 Data Structures & Algorithms
+![Arrays](https://img.shields.io/badge/Arrays-%234CAF50.svg?style=for-the-badge)
+![Strings](https://img.shields.io/badge/Strings-%23007ACC.svg?style=for-the-badge)
+![Linked Lists](https://img.shields.io/badge/Linked%20Lists-%239C27B0.svg?style=for-the-badge)
+![Stacks](https://img.shields.io/badge/Stacks-%23FF5722.svg?style=for-the-badge)
+![Queues](https://img.shields.io/badge/Queues-%2300BCD4.svg?style=for-the-badge)
+![Trees](https://img.shields.io/badge/Trees-%238BC34A.svg?style=for-the-badge)
+![Hashing](https://img.shields.io/badge/Hashing-%23673AB7.svg?style=for-the-badge)
+
+## 🎨 Front-end Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/reactjs-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 🛠 Back-end Development
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful%20APIs-%23007ACC.svg?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-%234CAF50.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## ⚙ Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge)
+![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/chrome%20devtools-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- Snake Game Repo View -->
 
