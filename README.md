@@ -1,7 +1,6 @@
 # 💫 Hi 👋, I'm Dilip Maurya
 
-**<h3>
-Full Stack Developer (MERN) with hands-on experience in building scalable and secure web applications. Skilled in designing RESTful APIs, implementing JWT-based authentication, and developing responsive user interfaces using React.js.
+**<h3>Full Stack Developer (MERN) with hands-on experience in building scalable and secure web applications. Skilled in designing RESTful APIs, implementing JWT-based authentication, and developing responsive user interfaces using React.js.
 
 Strong foundation in Data Structures & Algorithms with practical problem-solving experience using Java. Currently expanding expertise in Java Full Stack Development with Spring Boot and Docker.
 
