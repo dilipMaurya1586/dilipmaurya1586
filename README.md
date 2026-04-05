@@ -1,10 +1,13 @@
 # 💫 Hi 👋, I'm Dilip Maurya
 
-<h3>Full Stack Developer (MERN) with hands-on experience in building scalable and secure web applications. Skilled in designing RESTful APIs, implementing JWT-based authentication, and developing responsive user interfaces using React.js.
-
-Strong foundation in Data Structures & Algorithms with practical problem-solving experience using Java. Currently expanding expertise in Java Full Stack Development with Spring Boot and Docker.
-
-Focused on writing clean, maintainable code and building production-ready applications. </h3>
+<h3>
+Java Full Stack Developer — Spring Boot | Microservices | React.js
+🛠 Docker | Kubernetes | Kafka | CI/CD | Spring Security | Hibernate
+⚡ Also worked with MERN Stack — MongoDB | Express.js | Node.js
+🎓 B.E. Computer Engineering, Pune (2026)
+💼 Ex-Intern @ Elite Softwares
+📍 Pune | Open to work
+</h3>
 
 Email Me 👉 ✉️ **mauryadilip.work@gmail.com** For Collaboration/Project or Anything Else. 😊😊 <br/>
 My Portfolio website 👉 🌐**https://dilip-maurya-portfolio.vercel.app/** <br/>
