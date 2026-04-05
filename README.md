@@ -3,7 +3,7 @@
 <h3>
 Java Full Stack Developer — Spring Boot | Microservices | React.js <br/>
 🛠 Docker | Kubernetes | Kafka | CI/CD | Spring Security | Hibernate <br/>
-⚡ Also worked with MERN Stack — MongoDB | Express.js | Node.js <br/>
+⚡ Also worked with MERN Stack — MongoDB | Express.js | React.js | Node.js <br/>
 🎓 B.E. Computer Engineering, Pune (2026) <br/>
 💼 Ex-Intern @ Elite Softwares  <br/>
 📍 Pune | Open to work
